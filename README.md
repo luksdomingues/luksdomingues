@@ -6,7 +6,7 @@
 - 🔭 Estou trabalhando atualmente na Foursys
 - 🌱 Aprendendo Ruby, Cucumber
 - 🧠 Atualmente falo Inglês Intermediário
-- 🤔 Preciso de ajuda para entender alguns conceitos em Python
+- 🤔 Preciso de ajuda para entender alguns conceitos em Ruby
 - 💬 Fale comigo sobre programação
 - 📫 Para falar comigo: ldslucas64@gmail.com (E-mail)
 - 😄 Ele/Dele
