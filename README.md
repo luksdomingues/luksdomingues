@@ -4,9 +4,9 @@
 **luksdomingues/luksdomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Estou trabalhando atualmente na Foursys
-- 🌱 Aprendendo Ruby, Cucumber
+- 🌱 Aprendendo Javascript
 - 🧠 Atualmente falo Inglês Intermediário
-- 🤔 Preciso de ajuda para entender alguns conceitos em Ruby
+- 🤔 Preciso de ajuda para entender alguns conceitos em JS
 - 💬 Fale comigo sobre programação
 - 📫 Para falar comigo: ldslucas64@gmail.com (E-mail)
 - 😄 Ele/Dele
