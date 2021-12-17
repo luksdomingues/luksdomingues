@@ -3,7 +3,6 @@
 <!--
 **luksdomingues/luksdomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Estou trabalhando atualmente na Foursys
 - 🌱 Aprendendo Javascript
 - 🧠 Atualmente falo Inglês Intermediário
 - 🤔 Preciso de ajuda para entender alguns conceitos em JS
