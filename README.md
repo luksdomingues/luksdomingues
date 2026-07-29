@@ -87,19 +87,18 @@ Building <strong>FinanceBot</strong> 💰
 
 <p align="center">
 
-<img height="170" src="[https://github-readme-stats.vercel.app/api?username=luksdomingues&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=luksdomingues&show_icons=true&theme=tokyonight)"/>
+<img height="170" src="https://github-readme-stats-lucas-0c4b.vercel.app/api?username=luksdomingues&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=luksdomingues&layout=compact&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luksdomingues&layout=compact&theme=tokyonight)"/>
+<img height="170" src="https://github-readme-stats-lucas-0c4b.vercel.app/api/top-langs/?username=luksdomingues&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-[<img src="https://streak-stats.demolab.com?user=luksdomingues&theme=tokyonight"/>](https://github-readme-streak-stats-eight.vercel.app/?user=luksdomingues&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=luksdomingues&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -114,14 +113,17 @@ Building <strong>FinanceBot</strong> 💰
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/luksdomingues/luksdomingues/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/luksdomingues/luksdomingues/output/github-contribution-grid-snake.svg"
   />
+
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/luksdomingues/luksdomingues/output/github-contribution-grid-snake.svg"
   />
+
 </picture>
 
 </p>
