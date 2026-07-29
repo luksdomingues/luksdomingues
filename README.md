@@ -99,7 +99,7 @@ Building <strong>FinanceBot</strong> 💰
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=luksdomingues&theme=tokyonight"/>
+[<img src="https://streak-stats.demolab.com?user=luksdomingues&theme=tokyonight"/>](https://github-readme-streak-stats-eight.vercel.app/?user=luksdomingues&theme=tokyonight)
 
 </p>
 
